@@ -1,5 +1,11 @@
+@font-face {
+    font-family: 'code-bold';
+    src: url('../fonts/codebold.otf');
+}
+
 body {
     background-image: url('../images/FUNDO.png');
+        font-family: code-bold; 
 }
 .btn-num {
     background-color: #D8D8D6;
